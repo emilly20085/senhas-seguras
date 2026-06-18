@@ -2,9 +2,9 @@
 
 :root{
     --branco: white;
-    --cor-de-fundo: #00162E;
+    --cor-de-fundo: #3d0075;
     --fundo-senha: #15004d;
-    --fundo-texto: #6e4de9;
+    --fundo-texto: #4426af;
     --borda: #b090fa;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
@@ -65,6 +65,7 @@ body{
     border: 2px solid var(--borda);
     margin-top: 32px;
     padding: 24px;
+    border-radius: 10px;
 }
 
 .parametro-titulo{
